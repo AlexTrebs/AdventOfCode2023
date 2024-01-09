@@ -1,0 +1,12 @@
+[submodule "advent-of-code-2023-day-1"]
+	path = advent-of-code-2023-day-1
+	url = https://github.com/AlexTrebs/advent-of-code-2023-day-1
+[submodule "advent-of-code-2023-day-2"]
+	path = advent-of-code-2023-day-2
+	url = https://github.com/AlexTrebs/advent-of-code-2023-day-2.git
+[submodule "advent-of-code-2023-day-3"]
+	path = advent-of-code-2023-day-3
+	url = https://github.com/AlexTrebs/advent-of-code-2023-day-3.git
+[submodule "advent-of-code-2023-day-4"]
+	path = advent-of-code-2023-day-4
+	url = https://github.com/AlexTrebs/advent-of-code-2023-day-4
